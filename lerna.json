@@ -4,7 +4,7 @@
     "packages/*"
   ],
   "version": "0.0.5-alpha.0",
-  "publishConfig": {
-    "registry": "@nikhilks:registry=https://registry.npmjs.org"
+  "publish": {
+    "registry": "https://registry.npmjs.org"
   }
 }
