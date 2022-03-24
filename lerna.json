@@ -4,6 +4,6 @@
   ],
   "version": "0.0.3-alpha.0",
   "publishConfig": {
-    "registry": "http://my-awesome-registry.com/"
+    "registry": "@nikhilks:registry=https://registry.npmjs.org"
   }
 }
