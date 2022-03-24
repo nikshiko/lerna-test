@@ -4,5 +4,5 @@ module.exports = core;
 
 function core() {
     // TODO
-    console.log('This is core fds')
+    console.log('This is core fdsjfjdslakfj')
 }
