@@ -1,11 +1,11 @@
 {
-  "name": "test-2",
-  "version": "0.0.4",
+  "name": "bull",
+  "version": "0.0.1",
   "description": "> TODO: description",
-  "author": "Nikhil Konampurathu <Nikhil.Konampurathu@in.tesco.com>",
+  "author": "nikhilks2812@gmail.com",
   "homepage": "https://github.com/nikshiko/lerna-test#readme",
   "license": "MIT",
-  "main": "lib/test-2.js",
+  "main": "lib/bull.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
