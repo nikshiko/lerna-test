@@ -1,6 +1,7 @@
 {
   "name": "core",
   "version": "0.0.3-alpha.0",
+  "private": false,
   "description": "> TODO: description",
   "author": "nikhilks2812@gmail.com",
   "homepage": "https://github.com/nikshiko/lerna-test#readme",
