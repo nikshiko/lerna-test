@@ -6,5 +6,5 @@ function bull() {
     // TODO
 
     console.log('tests')
-    console.log('new tests')
+    console.log('new tests fdsaff')
 }
