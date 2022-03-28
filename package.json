@@ -8,5 +8,11 @@
     "lerna": "^4.0.0"
   },
   "repository": "https://github.com/nikshiko/lerna-test.git",
-  "author": "nikhilks2812@gmail.com"
+  "author": "nikhilks2812@gmail.com",
+  "devDependencies": {
+    "semantic-release": "^19.0.2"
+  },
+  "release": {
+    "branches": ["main"]
+  }
 }
